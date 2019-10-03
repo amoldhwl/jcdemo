@@ -1,0 +1,29 @@
+1. Test the swiping with Valid Card.
+
+2. Test the swiping with Invalid card.
+
+3. Test the swiping of Valid card and get entry.
+
+4. Test the swiping of Card with both entry and exit with Valid Card.
+
+5. Test the swiping of Card with Invalid Card continuously swiping and after limited attempts try to pop up message that Card is blocked  .
+
+6. Test for Swiping of Card with proper position in front of machine.
+
+7. Test for swiping of Card with proper ID and displaying Valid ID for reports extracted.
+
+8. Test for swiping of Card with proper Time and Date and proper Id display for the reports extracted.  
+
+9. Test for swiping of Card with One or more Card swiping at same time and should not allow multiple entries of overlapping of reports.
+
+10.Test without using Card and manually entering manipulating the machine.
+
+11.Test for swiping of Card and automatically close the door within time.
+
+12. Test for swiping of Valid Card and message displayed as Access allowed or Thank You.
+
+13. Test for swiping of Invalid Card and message displayed as Access denied. 
+
+14. Test for swiping of Invalid Card and  again manually entering manipulating the machine.
+
+15. Test for swiping of In-Valid Card and have some advanced features if someone tries to enter and pop up message immediately to the concerned department.
